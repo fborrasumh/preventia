@@ -44,13 +44,13 @@ Editar `src/curriculum.js` (ficha, temas y RA literales), `src/items.js`, `src/i
 
 ## Autoría
 
-Fernando Borrás Rocher (Universidad Miguel Hernández de Elche) y María Asunción Pastor Valero (Universidad Miguel Hernández de Elche, profesora responsable de la asignatura).
+Fernando Borrás Rocher, María Asunción Pastor Valero (profesora responsable de la asignatura), María Teresa Gea Velázquez de Castro y Juana Requena Puche, de la Universidad Miguel Hernández de Elche. Las cuatro personas autoras aceptan publicar su aportación bajo licencia MIT.
 
-ORCID: Fernando Borrás Rocher [0000-0002-5519-4573](https://orcid.org/0000-0002-5519-4573) · María Asunción Pastor Valero [0000-0001-9282-5787](https://orcid.org/0000-0001-9282-5787)
+ORCID: Fernando Borrás Rocher [0000-0002-5519-4573](https://orcid.org/0000-0002-5519-4573) · María Asunción Pastor Valero [0000-0001-9282-5787](https://orcid.org/0000-0001-9282-5787) · María Teresa Gea Velázquez de Castro y Juana Requena Puche: ORCID pendiente
 
 ## Cómo citar
 
-Borrás Rocher, F. y Pastor Valero, M. A. (2026). *PreventIA* (v1.0.0) [Software]. DOI: [10.5281/zenodo.24492190](https://doi.org/10.5281/zenodo.24492190)
+Borrás Rocher, F., Pastor Valero, M. A., Gea Velázquez de Castro, M. T. y Requena Puche, J. (2026). *PreventIA* (v1.1.0) [Software]. DOI: [10.5281/zenodo.24492190](https://doi.org/10.5281/zenodo.24492190)
 
 ## Licencia
 
